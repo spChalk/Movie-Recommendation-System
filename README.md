@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# :mag_right: :books: Movie-Recommendation-System
 
 ## Description
 **Movie Recommendation System** is a simple thus fully functional *Data Mining* project, that showcases the process from which all of the raw data pass through before they are being finally used and manipluated, in order to provide some handy information considering the suggestion of movies, based on some given preferences. The aforementioned preferences can be either some movie / TV show titles themselves or some descriptions that best describe a viewer's taste.
